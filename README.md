@@ -1,2 +1,0 @@
-# GanttObrasGestion
-personal pag gestion 
